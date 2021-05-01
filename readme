@@ -1,5 +1,3 @@
 Minimal p5js webpack starter
 
-[x] webpack
-[x] babel
-[ ] postcss
+* snowpack
